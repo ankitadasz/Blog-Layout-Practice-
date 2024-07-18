@@ -56,7 +56,9 @@ nav h1{
     justify-content: end;
     align-items: end;
     float: right;
-    margin-top: -52px;
+    margin-top: 50px;
+    border:2px solid #FFC7ED;
+    border-radius: 5px;
 }
 
 .blog h1{
