@@ -50,16 +50,7 @@ nav h1{
     border-radius: 20px;
 
 }
-.dog img{
-    width: 20vw;
-    height: 30vh;
-    justify-content: end;
-    align-items: end;
-    float: right;
-    margin-top: 50px;
-    border:2px solid #FFC7ED;
-    border-radius: 5px;
-}
+
 
 .blog h1{
    padding: 35px;
