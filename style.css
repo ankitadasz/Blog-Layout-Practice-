@@ -65,3 +65,17 @@ nav h1{
     font-weight: 700;
     padding: 20px;
 }
+footer{
+    margin-top: 6px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+    background-color: #304463;
+    height: 8vh;
+    font-family: "poppins", serif;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 13px;
+    color: white;
+}
