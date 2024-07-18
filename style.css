@@ -6,12 +6,12 @@
     box-sizing: border-box;
 }
 nav{
-    background-image: url(assets/back.jpg);
+    background-color:#FFF8DB;
     height: 20vh;
 }
 nav h1{
     
-    color: white;
+    color: #304463;
     font-family: "Merriweather", serif;
     font-weight: 700;
     font-size: xx-large;
@@ -29,12 +29,46 @@ nav h1{
     display: inline;
     margin: 10px;
     padding:20px ;
-    color: white;
+    color:#304463
     font-family: "poppins", serif;
     font-weight: 700;
     transition: 0.2s ease-in;
 
 }
 .tab a:hover{
-    color: blue;
+    color:#FFC7ED;
+}
+.blog{
+    background-color:#7D8ABC;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    border: 2px solid #304463;
+    border-radius: 20px;
+
+}
+.dog img{
+    width: 20vw;
+    height: 30vh;
+    justify-content: end;
+    align-items: end;
+    float: right;
+    margin-top: -52px;
+}
+
+.blog h1{
+   padding: 35px;
+   padding-bottom: 0px;
+   margin-left: 10px;
+}
+.blog p{
+    margin-left: 40px;
+    line-height: 1.6;
+    word-spacing: 2px;
+    font-family: "poppins", serif;
+    font-weight: 700;
+    padding: 20px;
 }
