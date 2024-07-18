@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-image: url(assets/back.jpg);
+    height: 20vh;
+}
+nav h1{
+    
+    color: white;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-size: xx-large;
+    text-align: center;
+    padding: 10px;
+}
+.object{
+    list-style-type: none;
+    margin-top: 20px;
+    text-align: center;
+   
+}
+.tab a{
+    text-decoration: none;
+    display: inline;
+    margin: 10px;
+    padding:20px ;
+    color: white;
+    font-family: "poppins", serif;
+    font-weight: 700;
+    transition: 0.2s ease-in;
+
+}
+.tab a:hover{
+    color: blue;
+}
